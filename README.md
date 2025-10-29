@@ -140,16 +140,17 @@
     <a href="#gallery">Gallery</a>
     <a href="#contact">Contact</a>
   </nav>
-    <a href="nextpage.html">Go to Next Page →</a>
+    
 
   <section id="about">
     <h2>About Our School</h2>
     <p>
-      Greenwood International School is dedicated to nurturing academic excellence and character development. 
-      We offer a holistic education that balances academics, creativity, and sports to prepare our students for the future.
+      Our school was established on 7th September, 1937 by Mrs. Ellen and Dr. V.N.Sharma, with a small group of 7 children. Inspired by new methods of education being debated in the west, they wished to create a school that could encompass the best of eastern and western educational philosophies. Beginning in a small way, they brought about new ideas and methods of education stressing on the holistic development of each child. By 1938 a School Advisory committee was formed.  By 1945 the strength of the school rose to 260 children and 18 teachers, and a middle school was set up. The school continued to grow through these years, moving from a small house to its present location.
+
+The school was inaugurated by Sri Swami Saswatanandaji Maharaj, the president of the Ramakrishna Mission. The name chosen was inspired from Froebels Kindergarten; the ‘Children’s Garden School’- A garden of learning, where children could learn through play, without fear and with freedom to express themselves and to awaken their innate talents. The symbol of a banyan tree (an ancient Indian symbol of wisdom and shelter) with children swinging from its roots was chosen as the logo. A special three-day exhibition of educational toys and materials organized for this occasion was opened to the public.
     </p>
   </section>
-    <a href="nextpage.html">Go to Next Page →</a>
+    <hr>
 
   <section id="academics">
     <h2>Our Academics</h2>
@@ -168,7 +169,7 @@
       </div>
     </div>
   </section>
-    <a href="nextpage.html">Go to Next Page →</a>
+    <hr>
 
   <section id="admissions">
     <h2>Admissions</h2>
@@ -177,14 +178,15 @@
       Visit our campus or contact us to learn more about the enrollment process.
     </p>
   </section>
+  <hr>
 
   <section id="gallery">
     <h2>School Gallery</h2>
     <div class="gallery">
-      <img src="https://source.unsplash.com/400x300/?school,students" alt="School Campus">
-      <img src="https://source.unsplash.com/400x300/?classroom" alt="Classroom">
-      <img src="https://source.unsplash.com/400x300/?library" alt="Library">
-      <img src="https://source.unsplash.com/400x300/?sports" alt="Sports">
+      <img src="https://th.bing.com/th/id/R.650f857301003b8fd2f2fd1d60cee5f9?rik=6tb%2fDBY9AjxI1A&riu=http%3a%2f%2fchildrensgarden.in%2fwp-content%2fuploads%2f2018%2f03%2fUntitled-design-1-768x500.png&ehk=jSrhGNqU%2bsx%2fV8EIFHGjH4zGyZYcBtkppmjsY1JjTeE%3d&risl=&pid=ImgRaw&r=0" alt="School Campus">
+      <img src="https://th.bing.com/th/id/R.54d2a9c0e62386dd3d04fb309a3e53e6?rik=pG2Qd4nG1ye9wA&riu=http%3a%2f%2fchildrensgarden.in%2fwp-content%2fuploads%2f2020%2f07%2f16-768x510.png&ehk=h%2fkh9nuk9wagalQkEisSj7lqbR4%2fxEORsydWrgd1zmk%3d&risl=&pid=ImgRaw&r=0" alt="Classroom">
+      <img src="https://www.z-arts.org/app/uploads/2022/10/Z-Arts-Library-4-of-49-1-scaled.jpg" alt="Library">
+      <img src="https://www.mylaporetimes.com/wp-content/uploads/2024/08/0-13.jpg" alt="Sports">
     </div>
   </section>
 
