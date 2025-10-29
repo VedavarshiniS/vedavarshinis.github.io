@@ -194,15 +194,15 @@ The school was inaugurated by Sri Swami Saswatanandaji Maharaj, the president of
   <section id="contact" class="contact">
     <h2>Contact Us</h2>
     <div class="contact-info">
-      <p>📍 123 Green Avenue, Hyderabad, India</p>
+      <p>📍 123 Green Avenue, mylapore, chennai, India</p>
       <p>📞 +91 98765 43210</p>
-      <p>✉️ info@greenwoodschool.edu.in</p>
+      <p>✉️ info@childrensgardenschool.edu.in</p>
     </div>
   </section>
   <hr>
 
   <footer>
-    © 2025 Greenwood International School — All Rights Reserved
+    © 2025 childrens garden school — All Rights Reserved
   </footer>
 </body>
 </html>
