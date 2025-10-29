@@ -189,6 +189,7 @@ The school was inaugurated by Sri Swami Saswatanandaji Maharaj, the president of
       <img src="https://www.mylaporetimes.com/wp-content/uploads/2024/08/0-13.jpg" alt="Sports">
     </div>
   </section>
+  <hr>
 
   <section id="contact" class="contact">
     <h2>Contact Us</h2>
@@ -198,6 +199,7 @@ The school was inaugurated by Sri Swami Saswatanandaji Maharaj, the president of
       <p>✉️ info@greenwoodschool.edu.in</p>
     </div>
   </section>
+  <hr>
 
   <footer>
     © 2025 Greenwood International School — All Rights Reserved
