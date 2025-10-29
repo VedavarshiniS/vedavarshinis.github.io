@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Greenwood International School</title>
+<title>THE CHILDRENS GARDEN HIGHER SECONDARY SCHOOL</title>
 <style>
   /* 🌿 Global Styles */
   * {
@@ -129,7 +129,7 @@
 </head>
 <body>
   <header>
-    <h1>Greenwood International School</h1>
+    <h1>THE CHILDRENS GARDEN HIGHER SECONDARY SCHOOL</h1>
     <p>Empowering Young Minds Through Excellence & Innovation</p>
   </header>
 
@@ -140,6 +140,7 @@
     <a href="#gallery">Gallery</a>
     <a href="#contact">Contact</a>
   </nav>
+    <a href="nextpage.html">Go to Next Page →</a>
 
   <section id="about">
     <h2>About Our School</h2>
@@ -148,6 +149,7 @@
       We offer a holistic education that balances academics, creativity, and sports to prepare our students for the future.
     </p>
   </section>
+    <a href="nextpage.html">Go to Next Page →</a>
 
   <section id="academics">
     <h2>Our Academics</h2>
@@ -166,6 +168,7 @@
       </div>
     </div>
   </section>
+    <a href="nextpage.html">Go to Next Page →</a>
 
   <section id="admissions">
     <h2>Admissions</h2>
