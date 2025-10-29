@@ -140,6 +140,8 @@
     <a href="#gallery">Gallery</a>
     <a href="#contact">Contact</a>
   </nav>
+  <hr>
+  <br>
     
 
   <section id="about">
