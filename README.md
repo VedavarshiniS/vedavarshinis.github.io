@@ -12,8 +12,8 @@ permalink: /
 Welcome to my project hub. I use this page to post updates, demos, and links to code. Bookmark this page to keep an eye on new changes!
 
 ## Latest
-- **Project A** — short one-line description.  
-- **Project B** — short one-line description.
+- **Project A** — text summarization for legal documents.  
+- **Project B** — fake news detection.
 
 ## Links
 - [GitHub profile](https://github.com/your-username)
